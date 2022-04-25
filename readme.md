@@ -35,7 +35,7 @@ And Currently I Am Working On - "I won't tell you what I am working on"
 <br>
 So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc, TypeScript, Firebase, NodeJS, React, Angular etc.
 <br>
-Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a>
+<!-- Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a> -->
 
 <br>
 
@@ -48,11 +48,11 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.github.com/himanshurajora"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/himanshu-jangid-5a334a196/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/15781928/himanshu-jangidy"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/-stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://www.instagram.com/himy.in/">
-  <img alt="Himanshu Jangid's Instagram" title="Instagram" src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.github.com/harsh-100"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harsh-agarwal-669221192/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<!--   <a href="https://stackoverflow.com/users/15781928/himanshu-jangidy"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/-stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a> -->
+<!--   <a href="https://www.instagram.com/himy.in/"> -->
+<!--   <img alt="Himanshu Jangid's Instagram" title="Instagram" src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 </p>
 <br>
 
@@ -63,7 +63,7 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="himanshurajora's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajora&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="harsh agarwal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-100&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
@@ -145,8 +145,8 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="himanshurajora's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=himanshurajora&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="himanshurajora's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=himanshurajora&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Harsh Agarwal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harsh-100&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Harsh Agarwal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harsh-100&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
@@ -155,7 +155,7 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="
 <details> 
   <summary>🏆 GitHub Profile Trophy</summary>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="himanshurajora's Top Languages" src="https://github-profile-trophy.vercel.app/?username=himanshurajora" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Harsh Agarwal's Top Languages" src="https://github-profile-trophy.vercel.app/?username=harsh-100" /></a>
   <br/>
   <br/>
 </details>
@@ -163,20 +163,20 @@ Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="
 <details> 
   <summary>💻 My Organization</summary>
   <br/>
-  <img alt="himanshurajora's Organizations" src="https://orgstats.vercel.app/?username=himanshurajora"/>
+  <img alt="Harsh Agarwal's Organizations" src="https://orgstats.vercel.app/?username=harsh-100"/>
   <br/>
   <br/>
 </details>
 <br/>
 
-<img alt="himanshurajora's Github Metrics" src="https://metrics.lecoq.io/himanshurajora" />
+<img alt="Harsh Agarwal's Github Metrics" src="https://metrics.lecoq.io/harsh-100" />
 <br/>
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="himanshurajora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himanshurajora&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Harsh Agarwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh-100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <hr/>
 
-<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/himanshurajora"/>
+<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/harsh-100"/>
 <hr/>
 <hr/>
