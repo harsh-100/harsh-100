@@ -1,5 +1,8 @@
+  ![download](https://user-images.githubusercontent.com/61608506/169093768-3ff65bc0-e042-4fe9-957c-9151d622d4b9.png)
+
 <div align="center">
-  <img src="./gitbg-1.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
+<!--   <img src="./gitbg-1.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" /> -->
   <br />
   <br />
 </div>
@@ -24,16 +27,17 @@ My Goals And Objectives Are Christal Clear. This Helps Me To Work More Faster An
 I Improve Myself Everyday In Terms Of A Good Character And In Time Management Skills.
 I Like Do Things As Fast As Possible So That They Doesn't Take More Of My Time.
 <br>
-I Started My Journey With Computers In 2017.
+I Started My Journey With Computers In 2020.
 <br>
-Currently Working On Technologies Like Node JS and AI.
+Currently Working On Technologies Like MERN(MongoDB, Express,React js, Node js).
 I have Worked On Many Projects Like :
-VCat, VImage, VBrowser, VPad, VAT, VMediaPlayer, VCF-Project, Survival Run, Nikki Rush and Many More
-<br>
-And Currently I Am Working On - "I won't tell you what I am working on"
+Soon it will be Public --- 👇
+<!-- IM_ALEXA , Self-driving Car , Dairy Calender , Youtube player With API ,  -->
+
+
 
 <br>
-So Far I Have Learned C, C++, Python, Arduino, C#, HTML, SASS, CSS, JavaScript, Java etc, TypeScript, Firebase, NodeJS, React, Angular etc.
+So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Firebase, NodeJS, React etc.
 <br>
 <!-- Here's <a href="https://himanshurajora.github.io">My Portfolio</a> and <a href="https://www.jiocloud.com/s/?t=MQacwhLNYXsnrVPc&s=a9">My Resume</a> -->
 
