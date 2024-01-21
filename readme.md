@@ -1,6 +1,9 @@
   ![A (((vividly co d59071dc-8534-4320-adce-fcc24c5a346c](https://github.com/harsh-100/harsh-100/assets/61608506/ef40b4a1-0fed-4c5d-80a6-8ccc6dc7ff35)
 
 
+
+
+
 <div align="center">
 
 <!--   <img src="./gitbg-1.jpg" style="max-width: 100%;" alt="Welcome to my Github Profile" /> -->
@@ -185,3 +188,8 @@ So Far I Have Learned C, C++, Python, HTML, CSS, JavaScript etc, TypeScript, Fir
 <img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/harsh-100"/>
 <hr/>
 <hr/>
+
+
+if you like what i do, maybe consider buying me a coffee/tea 😜👉👈
+
+<a href="https://www.buymeacoffee.com/harshagarwal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
