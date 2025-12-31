@@ -1,6 +1,7 @@
 
 <div align="center">
-  <h1>Hi, I'm Harsh Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  <!-- <h1>Hi, I'm Harsh Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> -->
+  <img src="https://res.cloudinary.com/dekbrmxgq/image/upload/v1767134693/harshagarwal_lyqawa.jpg" alt="harshagarwal automation ai engineer"/>
   <p>
     <a href="https://readme-typing-svg.demolab.com/demo/?lines=Full-stack%20Developer;Power%20Platform%20Engineer;Always%20learning%20new%20things&center=true&width=400&height=45">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Power+Platform+Developer;Always+Learning+New+Things"/>
@@ -17,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Power Apps & MERN Stack Developer | 3+ Years of Experience  
+- 💼 Automation AI Engineer | Worked as Power Apps & MERN Stack Developer | 3+ Years of Experience  
 - 📍 Currently working at Celebal Technologies as a Power Platform Developer  
 - 💡 Passionate about automating real-world processes and building scalable, user-focused applications  
 - 🚀 Built Pitchwave, a transcription app using Google Speech-to-Text API, Node.js, Redis queue, and custom PDF generation  
@@ -40,13 +41,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-100&theme=tokyonight&hide_border=true" alt="Harsh Agarwal's GitHub Streak" />
 </p>
 
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harsh-100" alt="GitHub Streak" /></a> -->
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-100&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-100&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-100&theme=tokyo-night" alt="Harsh's Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -54,7 +58,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh-100&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=harsh-100&theme=flat&row=1&column=6&no-bg=true&no-frame=true" alt="harsh-100 trophies"/> -->
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=harsh-100" alt="Trophies"/>
 </p>
 
 ---
