@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Automation AI Engineer | Worked as Power Apps & MERN Stack Developer | 3+ Years of Experience  
-- 📍 Currently working at Celebal Technologies as a Power Platform Developer  
+- 💼 Automation AI Engineer | Worked as Power Apps & MERN Stack Developer | 4+ Years of Experience    
 - 💡 Passionate about automating real-world processes and building scalable, user-focused applications  
 - 🚀 Built Pitchwave, a transcription app using Google Speech-to-Text API, Node.js, Redis queue, and custom PDF generation  
-- 🧠 Learning, Building, and Growing every day  
+- 🧠 Learning, Building, and Growing every day
+- 👉 ***Visit my portfolio at [harshagarwal.dev](https://harshagarwal.dev/)***
 
 ---
 
@@ -31,6 +31,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-agarwal-669221192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/harsh-100"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://harshagarwal.dev/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-D81B60?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</a>
 </p>
 
 ---
